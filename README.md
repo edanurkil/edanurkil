@@ -14,6 +14,14 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+About Me
+
+I am currently pursuing a degree in Software Engineering, where I am developing a strong foundation in core areas such as Java programming, CISCO networking, cybersecurity and more. While I am still exploring the breadth of this major, I am passionate about technology and eager to learn new concepts and skills.
+
+I hold various certifications, including CISCO certifications, TSC certifications, and language proficiency credentials. I believe in continuous learning and am committed to expanding my knowledge and capabilities within the tech field.
+
+Connect with me on LinkedIn to follow my journey and explore collaborative opportunities.
+
 ![GitHub Snake](https://raw.githubusercontent.com/edanurkil/snk/output/github-contribution-grid-snake-dark.svg)
 
 
