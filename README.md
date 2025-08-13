@@ -22,6 +22,4 @@ I hold various certifications, including CISCO certifications, TSC certification
 
 Connect with me on LinkedIn to follow my journey and explore collaborative opportunities.
 
-![GitHub Snake](https://raw.githubusercontent.com/edanurkil/snk/output/github-contribution-grid-snake-dark.svg)
-
 
